@@ -1,0 +1,3 @@
+/home/guarino/Esperimenti/gamma/CADMesh/examples/basic/build/CMakeFiles/rebuild_cache.dir
+/home/guarino/Esperimenti/gamma/CADMesh/examples/basic/build/CMakeFiles/edit_cache.dir
+/home/guarino/Esperimenti/gamma/CADMesh/examples/basic/build/CMakeFiles/cadmesh_example.dir
